@@ -30,3 +30,4 @@
 13) git branch - Отображает список всех веток
 14) git branch -m <new branch name> - Переименование текущей ветки
 15) git branch -d <branch name> - Удаление ветки (текущую удалить нельзя)
+15) git branch -d <branch name> - Удаление ветки (текущую удалить нельзя)
