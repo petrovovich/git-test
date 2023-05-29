@@ -24,7 +24,8 @@
 7) git checkout <comit hash> - перейти к определённой версии проекта по SHA1 хэшу коммиту
 8) git checkout <branch name> - Переход в определённую версию проекта по названию ветки
 9) git cat-file -t name hash - Прочитать содержимое обьектов git по определённому хзшу
-10) git cat-file -p name hash - Прочитать содержимое коммита по определённому хзшу 11) git branch <branche name> - Создание новой ветки
+10) git cat-file -p name hash - Прочитать содержимое коммита по определённому хзшу 
+11) git branch <branche name> - Создание новой ветки
 12) git branch -b <branch name> - Создание новой ветки и переход в неё
 13) git branch - Отображает список всех веток
 14) git branch -m <new branch name> - Переименование текущей ветки
