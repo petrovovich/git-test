@@ -1,2 +1,0 @@
-feture text file
-файл изменён в ветке "new-fature"

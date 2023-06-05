@@ -1,2 +1,0 @@
-Text1 in second-subfolder
-this file was modified in the "new-feature" branch (изменения в ветке new-feature)
